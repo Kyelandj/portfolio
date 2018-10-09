@@ -59,7 +59,7 @@
   .header {
     width: 100%;
     top:0px;
-    background:#fff;
+    background: rebeccapurple;
     position: fixed;
     height: 40px;
     z-index: 9999;
